@@ -1,7 +1,7 @@
-#Messenger App
+# Messenger App
 This is a messaging app built using React Native, Gifted Chat, and Firebase.
 
-##Features
+## Features
 Send and receive text messages
 Send and receive images
 Send and receive location
@@ -11,7 +11,7 @@ React Native
 Gifted Chat
 Firebase
 Expo
-##Getting Started
+## Getting Started
 Clone the repository
 ```
 git clone https://github.com/regazi/CFChatApp.git
@@ -30,8 +30,8 @@ Run the app
 npm run start
 ```
 
-##Contributing
-####We welcome contributions to the project. To contribute, follow these steps:
+## Contributing
+#### We welcome contributions to the project. To contribute, follow these steps:
 
 Fork the repository
 Create a new branch for your feature
