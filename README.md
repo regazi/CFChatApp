@@ -2,15 +2,14 @@
 This is a messaging app built using React Native, Gifted Chat, and Firebase.
 
 ## Features
-Send and receive text messages
-Send and receive images
-Send and receive location
+Send and receive text messages, images, 
+and user locations.
 Read messages offline using AsyncStorage
-Requirements
-React Native
-Gifted Chat
-Firebase
-Expo
+### Requirements
+React Native,
+Gifted Chat,
+Firebase,
+Expo.
 ## Getting Started
 Clone the repository
 ```
